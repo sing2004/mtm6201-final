@@ -24,6 +24,28 @@
    
     color:#e7bfce
 }
+.col-centered{
+    text-align: center;
+}
+.navbar-nav {
+    float: right;
+    margin: 0;
+    
+}
+.navbar-nav li{
+    float: left;
+    margin: 0;
+   
+}
+.text-center{
+    text-align: center;
+}
+.img-responsivelogo{
+    margin: auto;
+}
+.p-3{
+    PADDING: 20PX 0PX 20PX 30PX;
+}
 .bannerContent{
     margin:auto
 }
